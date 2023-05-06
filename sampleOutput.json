@@ -1,0 +1,53 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+      "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+      "publishedAt": "2020-04-27T11:41:47Z",
+      "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+      "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+      "publishedAt": "2020-03-30T15:26:05Z",
+      "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    },
+    
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Yahoo Sports Staff",
+      "title": "When is the 2023 Super Bowl? Eagles vs. Chiefs date, kickoff time — and how to watch the game - Yahoo Sports",
+      "description": "Find out the date, kick off time, and how to watch the 2023 Super Bowl on Fox or by streaming it if you don't have cable.",
+      "url": "https://sports.yahoo.com/super-bowl-2023-when-kickoff-chiefs-eagles-200829750.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/hcAfEVTyBCI0pTARmSlicQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-01/2c464bc0-a047-11ed-be7f-3269774636ae",
+      "publishedAt": "2023-02-11T20:08:29Z",
+      "content": "So when is Super Bowl LVII? It's only one day away on Sunday, February 12, 2023, with kick off at 6:30pm ET on your local Fox channel. The Philadelphia Eagles will square off with the Kansas City Chi… [+3870 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "German groups suspend Turkey quake rescue over security - Reuters.com",
+      "description": "Two German aid organisations suspended rescue operations in quake-hit Turkey on Saturday, citing security problems and reports of clashes between groups of people and gunfire.",
+      "url": "https://www.reuters.com/world/europe/austrian-army-suspends-turkey-quake-rescue-afp-2023-02-11/",
+      "urlToImage": "https://www.reuters.com/resizer/fu0AKHVRGAtEOWmpsT8OuQ9UlgA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SQNW5QUUQZK57CUPKSYLXJH57A.jpg",
+      "publishedAt": "2023-02-11T19:38:00Z",
+      "content": "KIRIKHAN, Turkey/BERLIN, Feb 11 (Reuters) - Two German aid organisations suspended rescue operations in quake-hit Turkey on Saturday, citing security problems and reports of clashes between groups of… [+2613 chars]"
+    }
+  ]
+}
